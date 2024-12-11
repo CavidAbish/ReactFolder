@@ -1,8 +1,9 @@
 {
-  "homepage": "https:/CavidAbish.github.io/ReactFolder",
+  "homepage": "https://CavidAbish.github.io/ReactFolder",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
